@@ -1,0 +1,96 @@
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.deps.json
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.runtimeconfig.json
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.runtimeconfig.dev.json
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ref/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.pdb
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.csproj.AssemblyReference.cache
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.AssemblyInfoInputs.cache
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.AssemblyInfo.cs
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.csproj.CoreCompileInputs.cache
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ref/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.pdb
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.genruntimeconfig.cache
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\bin\Debug\net5.0\ffp.exe
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\bin\Debug\net5.0\ffp.deps.json
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\bin\Debug\net5.0\ffp.runtimeconfig.json
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\bin\Debug\net5.0\ffp.runtimeconfig.dev.json
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\bin\Debug\net5.0\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\bin\Debug\net5.0\ffp.pdb
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.csproj.AssemblyReference.cache
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.AssemblyInfoInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.AssemblyInfo.cs
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.csproj.CoreCompileInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\refint\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.pdb
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ffp.genruntimeconfig.cache
+C:\Users\hekim\OneDrive\Masaüstü\ffp-main\ffp-main\obj\Debug\net5.0\ref\ffp.dll
+C:\Users\hekim\Desktop\ffp-main\bin\Debug\net5.0\ffp.exe
+C:\Users\hekim\Desktop\ffp-main\bin\Debug\net5.0\ffp.deps.json
+C:\Users\hekim\Desktop\ffp-main\bin\Debug\net5.0\ffp.runtimeconfig.json
+C:\Users\hekim\Desktop\ffp-main\bin\Debug\net5.0\ffp.runtimeconfig.dev.json
+C:\Users\hekim\Desktop\ffp-main\bin\Debug\net5.0\ffp.dll
+C:\Users\hekim\Desktop\ffp-main\bin\Debug\net5.0\ffp.pdb
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.csproj.AssemblyReference.cache
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.AssemblyInfoInputs.cache
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.AssemblyInfo.cs
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.csproj.CoreCompileInputs.cache
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.dll
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\refint\ffp.dll
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.pdb
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ffp.genruntimeconfig.cache
+C:\Users\hekim\Desktop\ffp-main\obj\Debug\net5.0\ref\ffp.dll
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.csproj.AssemblyReference.cache
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.AssemblyInfoInputs.cache
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.AssemblyInfo.cs
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.csproj.CoreCompileInputs.cache
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.dll
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\refint\ffp.dll
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.pdb
+C:\Users\hekim\Desktop\IPA-Programming\bin\Debug\net5.0\ffp.exe
+C:\Users\hekim\Desktop\IPA-Programming\bin\Debug\net5.0\ffp.deps.json
+C:\Users\hekim\Desktop\IPA-Programming\bin\Debug\net5.0\ffp.runtimeconfig.json
+C:\Users\hekim\Desktop\IPA-Programming\bin\Debug\net5.0\ffp.runtimeconfig.dev.json
+C:\Users\hekim\Desktop\IPA-Programming\bin\Debug\net5.0\ffp.dll
+C:\Users\hekim\Desktop\IPA-Programming\bin\Debug\net5.0\ffp.pdb
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ffp.genruntimeconfig.cache
+C:\Users\hekim\Desktop\IPA-Programming\obj\Debug\net5.0\ref\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\bin\Debug\net5.0\ffp.exe
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\bin\Debug\net5.0\ffp.deps.json
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\bin\Debug\net5.0\ffp.runtimeconfig.json
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\bin\Debug\net5.0\ffp.runtimeconfig.dev.json
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\bin\Debug\net5.0\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\bin\Debug\net5.0\ffp.pdb
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.csproj.AssemblyReference.cache
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.AssemblyInfoInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.AssemblyInfo.cs
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.csproj.CoreCompileInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\refint\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.pdb
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ffp.genruntimeconfig.cache
+C:\Users\hekim\OneDrive\Masaüstü\IPA-Programming\obj\Debug\net5.0\ref\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\bin\Debug\net5.0\ffp.exe
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\bin\Debug\net5.0\ffp.deps.json
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\bin\Debug\net5.0\ffp.runtimeconfig.json
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\bin\Debug\net5.0\ffp.runtimeconfig.dev.json
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\bin\Debug\net5.0\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\bin\Debug\net5.0\ffp.pdb
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.csproj.AssemblyReference.cache
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.AssemblyInfoInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.AssemblyInfo.cs
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.csproj.CoreCompileInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\refint\ffp.dll
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.pdb
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ffp.genruntimeconfig.cache
+C:\Users\hekim\OneDrive\Masaüstü\test fonksiyonlarına göre functions seçimi\obj\Debug\net5.0\ref\ffp.dll
